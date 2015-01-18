@@ -7,7 +7,7 @@
 
 
 	/****逻辑值****/
-	`define	ENABLE_		1'b0	//有效{}
+	`define	ENABLE_		1'b0	//有效
 	`define	DISABLE_	1'b1	//无效
 
 	/****数据****/
